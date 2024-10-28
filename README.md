@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ramith845
-- 👀 I’m mainly interested in making game engines and C/C++, other interests are OS,virtualization, and networks.
+- 👀 I’m mainly interested in making game engines and C/C++
+- other interests are OS,virtualization, and networks.
 - 🌱 I’m currently a student
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ramith845@gmail.com
